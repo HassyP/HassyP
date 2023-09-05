@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, GAN's**
 
-- 👨‍💻 All of my projects are available at [https://hasseebbhutta.me/](https://hasseebbhutta.me/)
+- 👨‍💻 All of my projects are available at my [Portfolio.](https://hasseebbhutta.me/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/hasseeb-ahmad/**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?id=122yPaJGplq9Ru1HFZnch6gpT1--MpdsL&export=download](https://drive.google.com/uc?id=122yPaJGplq9Ru1HFZnch6gpT1--MpdsL&export=download)
+- 📄 Know about my experiences from my [Resume.](https://drive.google.com/uc?id=122yPaJGplq9Ru1HFZnch6gpT1--MpdsL&export=download)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
