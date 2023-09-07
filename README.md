@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/hasseeb-ahmad/**
 
-- 📄 Know about my experiences from my **[Resume.](https://drive.google.com/uc?id=122yPaJGplq9Ru1HFZnch6gpT1--MpdsL&export=download)**
+- 📄 Know about my experiences from my **[Resume.](https://shorturl.at/msK03)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
