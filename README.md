@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, GAN's**
 
-- 👨‍💻 All of my projects are available at my **[Portfolio.](https://hasseebbhutta.me/)**
+- 👨‍💻 All of my projects are available at my **[Portfolio.](https://hasseebbhutta.tech)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hasseeb-ahmad/**
 
